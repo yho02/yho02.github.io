@@ -1,0 +1,10 @@
+*
+!.gitignore
+!index.html
+!main.js
+!content.js
+!style.css
+!assets/
+!assets/**
+assets/headshot.svg
+assets/project-placeholder.svg
